@@ -73,9 +73,12 @@ Special credit to **open archives, Wikimedia Commons, and educational YouTube so
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/timeline-builder.git
+Run this website locally:
+
+1. Make sure you have Node.js installed.
+2. Fork this repo and place it on your local machine in a folder.
+3. Using the command line, CD (change directory) to the folder: cd myTimeline.
+4. Use http-server to quickly start up a local server; from your code's folder run npx http-server. You should see a timeline of Whitney Houston's amazing and tragic life.
 
 ## Live Demo
 [![Live Demo](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge)](https://git-onga.github.io/timeline-builder/)
