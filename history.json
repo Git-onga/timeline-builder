@@ -1,0 +1,115 @@
+{
+  "title": {
+    "media": {
+      "url": "https://i.pinimg.com/1200x/b3/d0/e8/b3d0e82c898e550e1b6ac946fa1674ee.jpg",
+      "caption": "Dice — the earliest tool of probability and gambling.",
+      "credit": "Image via Pinterest, public use"
+    },
+    "text": {
+      "headline": "🎲 From Dice to Data Science<br/>1500s – 2020s",
+      "text": "<p>The history of statistics is a journey from chance to certainty, beginning with dice games and gambling puzzles in Renaissance Europe and evolving into today’s data science that drives modern technology, medicine, and decision-making.</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1500" },
+      "text": {
+        "headline": "📜 Birth of Probability<br/>1500s–1600s",
+        "text": "Games of chance laid the groundwork for probability theory, with gamblers, mathematicians, and philosophers seeking patterns in randomness."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Girolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg",
+        "caption": "Gerolamo Cardano, a polymath and gambler.",
+        "credit": "Wellcome Collection, Wikimedia Commons"
+      },
+      "start_date": { "year": "1564" },
+      "text": {
+        "headline": "Gerolamo Cardano",
+        "text": "Documented the first systematic study of probability in 'Book on Games of Chance'—the foundation stone of modern statistics."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/500px-Blaise_Pascal_Versailles.JPG",
+        "caption": "Blaise Pascal (1623–1662), mathematician and philosopher.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": { "year": "1654" },
+      "text": {
+        "headline": "Fermat & Pascal",
+        "text": "Solved the 'problem of points' in gambling through letters—marking the formal birth of probability theory."
+      }
+    },
+    {
+      "start_date": { "year": "1800" },
+      "text": {
+        "headline": "📊 Rise of Statistics<br/>1700s–1900s",
+        "text": "The law of large numbers, the bell curve, regression, and hypothesis testing transformed probability into a scientific discipline."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Francis_Galton_1850s.jpg",
+        "caption": "Francis Galton, founder of regression and correlation.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": { "year": "1870" },
+      "text": {
+        "headline": "Francis Galton",
+        "text": "Developed regression and correlation; introduced 'regression toward the mean' and pioneered biostatistics."
+      }
+    },
+    {
+      "start_date": { "year": "1900" },
+      "text": {
+        "headline": "🤖 Rise of Machine Learning<br/>1900s–2000s",
+        "text": "Mathematicians and computer scientists merged probability with computing, laying the groundwork for machine learning."
+      }
+    },
+    {
+      "media": {
+        "url": "https://history-computer.com/ModernComputer/thinkers/images/Arthur-Samuel2.jpg",
+        "caption": "Arthur Samuel’s checkers-playing program (1959).",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": { "year": "1959" },
+      "text": {
+        "headline": "Arthur Samuel",
+        "text": "Coined the term 'machine learning' and built a checkers program that improved by experience—an early AI success."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Geoffrey_E._Hinton%2C_2024_Nobel_Prize_Laureate_in_Physics_%28cropped1%29.jpg/500px-Geoffrey_E._Hinton%2C_2024_Nobel_Prize_Laureate_in_Physics_%28cropped1%29.jpg",
+        "caption": "Geoffrey Hinton, the 'Godfather of Deep Learning'.",
+        "credit": "Photo by Larry Goldstein, Wikimedia Commons"
+      },
+      "start_date": { "year": "1986" },
+      "text": {
+        "headline": "Geoffrey Hinton",
+        "text": "Revived neural networks with the backpropagation algorithm, enabling multi-layer learning."
+      }
+    },
+    {
+      "start_date": { "year": "2010" },
+      "text": {
+        "headline": "🌐 Generative AI Revolution<br/>2010s–Present",
+        "text": "From convolutional nets to transformers and diffusion models, ML now powers generative systems for text, images, video, and beyond."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+        "caption": "ChatGPT: an icon of generative AI.",
+        "credit": "OpenAI, Wikimedia Commons"
+      },
+      "start_date": { "year": "2022" },
+      "text": {
+        "headline": "ChatGPT & Generative AI",
+        "text": "Large language models like GPT-4 redefine human–computer interaction, marking the peak of the statistics-to-ML journey."
+      }
+    }
+  ]
+}
